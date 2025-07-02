@@ -1,4 +1,4 @@
-# Brain Tumour Image Classification with PyTorch 🧠
+# Brain Tumour Image Classification
 
 This project uses PyTorch to classify brain tumour images using a custom CNN and transfer learning with ResNet18.
 
